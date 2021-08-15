@@ -28,7 +28,7 @@ Website
 [https://rest.li](https://rest.li)
 
 Documentation
--------------
+--------------
 
 See our [website](https://rest.li) for full documentation and examples.
 
